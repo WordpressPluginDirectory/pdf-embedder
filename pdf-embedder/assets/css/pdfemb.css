@@ -228,20 +228,6 @@ div.pdfemb-toolbar div {
   float: left;
 }
 
-div.pdfemb-toolbar div.pdfemb-poweredby {
-  float: right;
-}
-
-div.pdfemb-toolbar div.pdfemb-poweredby a {
-  color: lightgray;
-  text-decoration: none;
-  border-bottom: 1px solid #333;
-}
-
-div.pdfemb-toolbar div.pdfemb-poweredby a:hover {
-  border-bottom: none;
-}
-
 div.pdfemb-errormsg {
   padding: 5px;
   text-align: center;
@@ -387,10 +373,6 @@ input.pdfemb-page-num {
   display: block;
   position: relative;
   background-color: lightGrey;
-}
-
-.poweredby {
-  float: right !important;
 }
 
 /* Safari 6.1+ (9.0 is the latest version of Safari at this time) */
